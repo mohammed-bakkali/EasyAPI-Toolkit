@@ -1,0 +1,19 @@
+{
+  "name": "easyapi-toolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohammed Bakkali",
+  "license": "ISC",
+  "description": "A toolkit for simplifying API requests in JavaScript using Axios.",
+  "contact": {
+    "email": "mohammedbakkali807@gmail.com",
+    "website": "mohammed-bakkali.netlify.app",
+    "phone": "+212 722-923357",
+    "city": "Tanger",
+    "role": "Web Developer"
+  }
+}
